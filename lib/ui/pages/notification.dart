@@ -29,6 +29,7 @@ class _NotificationState extends State<Notification> {
     loadSharedPreferencesAndData();
     allNotifs = true;
     readNotifs = false;
+    // getNotifs();fortestingonly
     super.initState();
   }
 
