@@ -161,7 +161,6 @@ class _MenuState extends State<Menu> {
                           maxLines: 1,
                           overflow: TextOverflow.fade,
                           style: TextStyle(
-                            fontFamily: "Red Hat Display",
                             color: Colors.white,
                             fontWeight: FontWeight.bold,
                             fontSize: 20,
@@ -184,7 +183,6 @@ class _MenuState extends State<Menu> {
                           maxLines: 1,
                           overflow: TextOverflow.fade,
                           style: TextStyle(
-                            fontFamily: "Red Hat Display",
                             color: Colors.white,
                             fontWeight: FontWeight.normal,
                             fontSize: 20,
@@ -207,7 +205,6 @@ class _MenuState extends State<Menu> {
                           maxLines: 1,
                           overflow: TextOverflow.fade,
                           style: TextStyle(
-                            fontFamily: "Red Hat Display",
                             color: Colors.white,
                             fontWeight: FontWeight.normal,
                             fontSize: 20,
@@ -230,7 +227,6 @@ class _MenuState extends State<Menu> {
                           maxLines: 1,
                           overflow: TextOverflow.fade,
                           style: TextStyle(
-                            fontFamily: "Red Hat Display",
                             color: Colors.white,
                             fontWeight: FontWeight.normal,
                             fontSize: 20,
@@ -253,7 +249,6 @@ class _MenuState extends State<Menu> {
                           maxLines: 1,
                           overflow: TextOverflow.fade,
                           style: TextStyle(
-                            fontFamily: "Red Hat Display",
                             color: Colors.white,
                             fontWeight: FontWeight.normal,
                             fontSize: 20,
@@ -324,7 +319,6 @@ class _MenuState extends State<Menu> {
                             maxLines: 1,
                             overflow: TextOverflow.fade,
                             style: TextStyle(
-                              fontFamily: "Red Hat Display",
                               color: Colors.white,
                               fontWeight: FontWeight.normal,
                               fontSize: 20,

@@ -66,11 +66,6 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return GetCupertinoApp(
-        localizationsDelegates: [
-          DefaultMaterialLocalizations.delegate,
-          DefaultCupertinoLocalizations.delegate,
-          DefaultWidgetsLocalizations.delegate,
-        ],
         onGenerateRoute: router.generateRoute,
         onUnknownRoute: (settings) => CupertinoPageRoute(
             builder: (context) => UndefinedScreen(
